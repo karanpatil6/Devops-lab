@@ -1,0 +1,8 @@
+git config--global email [vaild email id]
+git clone[URL]
+git add file[file name]
+git status
+git reset [file]
+git diff
+git diff--staged
+git commit-m[Descriptive message]
